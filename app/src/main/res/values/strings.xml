@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+
+    <string name="location_title">Location Permission</string>
+    <string name="location_text">You have to give Location Permission in order to get access of Google Map</string>
+    <string name="ok">OK</string>
+    <string name="check_your_location">Check your Location</string>
+</resources>
